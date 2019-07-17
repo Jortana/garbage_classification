@@ -1,0 +1,2 @@
+# garbage_classification
+garbage classification miniprogram
