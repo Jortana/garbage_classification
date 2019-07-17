@@ -1,0 +1,24 @@
+.category1 {
+    /* color: #104883; */
+    background: #8db8e615;
+}
+
+.category2 {
+    /* color: #e53122; */
+    background-color: #e6867d15;
+}
+
+.category4 {
+    /* color: #664035; */
+    background-color: #6d565015;
+}
+
+.category8 {
+    /* color: #2c2b27; */
+    background-color: #33312a15;
+}
+
+.weui-cell {
+    font-size: 1.2em;
+    line-height: 1.8em;
+}

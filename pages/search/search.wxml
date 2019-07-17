@@ -1,0 +1,36 @@
+<form>
+    <view class="weui-search-bar">
+        <view class="weui-search-bar__form">
+            <view class="weui-search-bar__box">
+                <icon class="weui-icon-search_in-box" type="search" size="14"></icon>
+                <input type="text" class="weui-search-bar__input" placeholder="搜索垃圾名称" value="{{inputVal}}" focus="{{inputShowed}}" bindinput="inputTyping" bindconfirm="formSubmit"/>
+                <view class="weui-icon-clear" wx:if="{{inputVal.length > 0}}" bindtap="clearInput">
+                    <icon type="clear" size="14"></icon>
+                </view>
+            </view>
+            <label class="weui-search-bar__label" hidden="{{inputShowed}}" bindtap="showInput">
+                <icon class="weui-icon-search" type="search" size="14"></icon>
+                <view class="weui-search-bar__text">搜索</view>
+            </label>
+        </view>
+        <view class="weui-search-bar__cancel-btn" hidden="{{!inputShowed}}" bindtap="hideInput">取消</view>
+    </view>
+</form>
+
+<view class="weui-cells weui-cells_after-title">
+	<view class="weui-cell category{{item.category}}" wx:for="{{resultList}}" wx:for-item="item" wx:key="index">
+		<view class="weui-cell__hd">
+			<image src="../../imgs/{{item.category}}.jpg" style="margin-right: 5px;vertical-align: middle;width:20px; height: 20px;"></image>
+		</view>
+		<view class="weui-cell__bd">{{item.name}}</view>
+		<view wx:if="{{item.category == 1}}" class="weui-cell__ft">可回收垃圾</view>
+		<view wx:elif="{{item.category == 2}}" class="weui-cell__ft">有害垃圾</view>
+		<view wx:elif="{{item.category == 4}}" class="weui-cell__ft">湿垃圾</view>
+		<view wx:elif="{{item.category == 8}}" class="weui-cell__ft">干垃圾</view>
+	</view>
+</view>
+<view class="weui-cells weui-cells_after-title">
+	<view wx:if="{{noInfo}}" class="weui-cell">
+		<view class="weui-cell__bd">没有找到{{inputVal}}的信息，过几天也许就会收录了</view>
+	</view>
+</view>

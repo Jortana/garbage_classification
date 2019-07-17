@@ -1,0 +1,21 @@
+<!--index.wxml-->
+<form>
+    <view class="center-container">
+        <image aspectFit src="../../imgs/logo.png" alt="logo" id="logo"/>
+        <view class="title">这是啥垃圾?</view>
+          <input id="index-search" bindconfirm="formSubmit" placeholder="搜索垃圾名称" />
+    </view>
+    <view class="tips-container">
+        <view class="tips">
+            <view>鼓励将可回收物卖入废品回收系统</view>
+            <view>或交投至两网融合服务点</view>
+            <view>或投放至可回收物收集容器；</view>		
+        </view>
+        <view class="tips">
+            严禁将有害垃圾投放到其他的垃圾收集容器；
+        </view>
+        <view class="tips">
+            日常家庭生活垃圾要做到干、湿垃圾两分开。
+        </view>
+    </view>
+</form>

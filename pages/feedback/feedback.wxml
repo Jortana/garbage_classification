@@ -1,0 +1,60 @@
+<view class="center-container">
+    <view class="title">
+        反馈
+    </view>
+</view>
+<view class="page__bd">
+    <form bindsubmit="validateAndSend">
+    <view class="weui-toptips weui-toptips_warn" wx:if="{{showTopTips}}">请填写带*的项</view>
+    <view class="weui-cells weui-cells_after-title">
+        <view class="weui-cell weui-cell_select">
+            <view class="weui-cell__hd weui-cell__hd_in-select-after">
+                <view class="weui-label">反馈类型<text class="red">*</text></view>
+            </view>
+            <view class="weui-cell__bd">
+                <picker bindchange="bindTypeChange" value="{{typeIndex}}" range="{{types}}">
+                    <view class="weui-select weui-select_in-select-after">{{types[typeIndex]}}</view>
+                </picker>
+            </view>
+        </view>
+    </view>
+    <view wx:if="{{typeIndex == 0}}" class="weui-cells__title">请填入您想补充垃圾的名称<text class="red">*</text></view>
+    <view wx:elif="{{typeIndex == 1}}" class="weui-cells__title">请填写您的意见/建议<text class="red">*</text></view>
+    <view class="weui-cells weui-cells_after-title">
+        <view class="weui-cell">
+            <view class="weui-cell__bd">
+                <textarea class="weui-textarea" name="content" placeholder="请输入文本" style="height: 3.3em" value="{{content}}"/>
+                <!-- <view class="weui-textarea-counter">0/200</view> -->
+            </view>
+        </view>
+    </view>
+    <view class="weui-cells__title">联系方式（选填）</view>
+    <view class="weui-cells weui-cells_after-title">
+        <view class="weui-cell weui-cell_input weui-cell_vcode">
+            <view class="weui-cell__hd">
+                <view class="weui-label">手机号</view>
+            </view>
+            <view class="weui-cell__bd">
+                <input class="weui-input" name="phone" placeholder="请输入手机号" value="{{phone}}"/>
+            </view>
+        </view>
+        <view class="weui-cell weui-cell_input weui-cell_vcode">
+            <view class="weui-cell__hd">
+                <view class="weui-label">电子邮箱</view>
+            </view>
+            <view class="weui-cell__bd">
+                <input class="weui-input" name="email" placeholder="请输入电子邮箱" value="{{email}}"/>
+            </view>
+        </view>
+    </view>
+    <view class="weui-cells__title">我们会第一时间处理您的反馈</view>
+    <view class="weui-btn-area">
+        <button class="weui-btn" type="primary" form-type="submit">确定</button>
+    </view>
+    </form>
+    <view class="page__bd page__bd_spacing">
+        <view class="weui-footer">
+            <view class="weui-footer__text">Power By weui.io, Icon By AUGIC</view>
+        </view>
+    </view>
+</view>
