@@ -12,10 +12,10 @@
             <view>或投放至可回收物收集容器；</view>		
         </view>
         <view class="tips">
-            严禁将有害垃圾投放到其他的垃圾收集容器；
+            <view>严禁将有害垃圾投放到其他的垃圾收集容器；</view>
         </view>
         <view class="tips">
-            日常家庭生活垃圾要做到干、湿垃圾两分开。
+            <view>日常家庭生活垃圾要做到干、湿垃圾两分开。</view>
         </view>
     </view>
 </form>

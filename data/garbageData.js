@@ -183,7 +183,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "鲍鱼",
-    "category": 4
+    "category": 8
 }, {
     "name": "鲍鱼壳",
     "category": 8
@@ -207,7 +207,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "扇贝",
-    "category": 4
+    "category": 8
 }, {
     "name": "贝壳类",
     "category": 8
@@ -699,7 +699,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "白炽灯",
-    "category": 1
+    "category": 2
 }, {
     "name": "白炽灯泡",
     "category": 2
@@ -762,7 +762,7 @@ var garbage = [{
     "category": 2
 }, {
     "name": "除湿盒",
-    "category": 8
+    "category": 1
 }, {
     "name": "除湿机",
     "category": 1
@@ -1020,7 +1020,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "衣服吊牌",
-    "category": 1
+    "category": 8
 }, {
     "name": "钓鱼竿",
     "category": 8
@@ -1365,7 +1365,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "干花",
-    "category": 8
+    "category": 4
 }, {
     "name": "甘蔗",
     "category": 4
@@ -1431,7 +1431,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "草稿纸",
-    "category": 8
+    "category": 1
 }, {
     "name": "写过的草稿纸",
     "category": 1
@@ -1461,13 +1461,13 @@ var garbage = [{
     "category": 1
 }, {
     "name": "蛤蜊",
-    "category": 4
+    "category": 8
 }, {
     "name": "蛤蟆",
     "category": 4
 }, {
     "name": "花蛤",
-    "category": 4
+    "category": 8
 }, {
     "name": "隔离霜",
     "category": 8
@@ -1554,7 +1554,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "古筝",
-    "category": 1
+    "category": 16
 }, {
     "name": "大骨",
     "category": 8
@@ -1842,7 +1842,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "钢化膜",
-    "category": 1
+    "category": 8
 }, {
     "name": "电话",
     "category": 1
@@ -2013,7 +2013,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "花甲",
-    "category": 4
+    "category": 8
 }, {
     "name": "甲油",
     "category": 2
@@ -2121,7 +2121,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "可降解垃圾袋",
-    "category": 4
+    "category": 8
 }, {
     "name": "可降解塑料袋",
     "category": 8
@@ -2229,7 +2229,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "金属",
-    "category": 8
+    "category": 1
 }, {
     "name": "金鱼",
     "category": 4
@@ -2331,7 +2331,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "开心果壳",
-    "category": 8
+    "category": 4
 }, {
     "name": "旧报刊",
     "category": 1
@@ -2880,10 +2880,10 @@ var garbage = [{
     "category": 4
 }, {
     "name": "海螺",
-    "category": 4
+    "category": 8
 }, {
     "name": "花螺",
-    "category": 4
+    "category": 8
 }, {
     "name": "螺帽",
     "category": 1
@@ -3285,7 +3285,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "乒乓球",
-    "category": 8
+    "category": 1
 }, {
     "name": "日抛美瞳",
     "category": 8
@@ -3324,7 +3324,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "帐篷",
-    "category": 1
+    "category": 16
 }, {
     "name": "膨化食品",
     "category": 4
@@ -3789,7 +3789,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "蛇皮袋",
-    "category": 1
+    "category": 8
 }, {
     "name": "摄像机",
     "category": 1
@@ -3813,7 +3813,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "生蚝",
-    "category": 4
+    "category": 8
 }, {
     "name": "棉绳",
     "category": 8
@@ -4551,7 +4551,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "无纺布",
-    "category": 1
+    "category": 8
 }, {
     "name": "无纺布袋",
     "category": 1
@@ -4977,7 +4977,7 @@ var garbage = [{
     "category": 2
 }, {
     "name": "收银条",
-    "category": 8
+    "category": 1
 }, {
     "name": "隐形眼镜片",
     "category": 8
@@ -5022,7 +5022,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "电影票",
-    "category": 8
+    "category": 1
 }, {
     "name": "影印纸",
     "category": 1
@@ -5271,7 +5271,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "照片",
-    "category": 8
+    "category": 2
 }, {
     "name": "旧照片",
     "category": 2
@@ -5418,7 +5418,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "蜡烛",
-    "category": 1
+    "category": 8
 }, {
     "name": "生日蜡烛",
     "category": 8
@@ -6303,7 +6303,7 @@ var garbage = [{
     "category": 4
 }, {
     "name": "花甲壳",
-    "category": 4
+    "category": 8
 }, {
     "name": "海底捞锅底",
     "category": 4
@@ -7176,7 +7176,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "田螺壳",
-    "category": 8
+    "category": 4
 }, {
     "name": "蛏子壳",
     "category": 8
@@ -7209,7 +7209,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "烟盒",
-    "category": 8
+    "category": 1
 }, {
     "name": "烧烤木签",
     "category": 8
@@ -7347,7 +7347,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "塑料拖鞋",
-    "category": 8
+    "category": 1
 }, {
     "name": "橡皮筋",
     "category": 8
@@ -7647,7 +7647,7 @@ var garbage = [{
     "category": 8
 }, {
     "name": "啤酒瓶盖",
-    "category": 8
+    "category": 1
 }, {
     "name": "糖果皮",
     "category": 8
@@ -9222,10 +9222,10 @@ var garbage = [{
     "category": 1
 }, {
     "name": "沙发",
-    "category": 1
+    "category": 16
 }, {
     "name": "茶几",
-    "category": 1
+    "category": 16
 }, {
     "name": "办公桌",
     "category": 1
@@ -9234,7 +9234,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "椅子",
-    "category": 1
+    "category": 16
 }, {
     "name": "皮带",
     "category": 1
@@ -9339,7 +9339,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "袜子",
-    "category": 1
+    "category": 8
 }, {
     "name": "竹签",
     "category": 1
@@ -9372,7 +9372,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "锡纸",
-    "category": 1
+    "category": 8
 }, {
     "name": "废旧电子产品",
     "category": 1
@@ -9483,7 +9483,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "消毒液瓶",
-    "category": 1
+    "category": 2
 }, {
     "name": "自行车",
     "category": 1
@@ -9492,7 +9492,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "床垫",
-    "category": 1
+    "category": 16
 }, {
     "name": "木板",
     "category": 1
@@ -9618,7 +9618,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "钢琴",
-    "category": 1
+    "category": 16
 }, {
     "name": "手链",
     "category": 1
@@ -9693,7 +9693,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "小提琴",
-    "category": 1
+    "category": 16
 }, {
     "name": "塑料架",
     "category": 1
@@ -9768,7 +9768,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "木椅",
-    "category": 1
+    "category": 16
 }, {
     "name": "收音机",
     "category": 1
@@ -10041,7 +10041,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "拉杆箱",
-    "category": 1
+    "category": 16
 }, {
     "name": "棉被",
     "category": 1
@@ -10224,7 +10224,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "羽毛球拍",
-    "category": 1
+    "category": 8
 }, {
     "name": "乒乓球拍",
     "category": 1
@@ -10359,7 +10359,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "行李箱",
-    "category": 1
+    "category": 16
 }, {
     "name": "麦当劳咖啡杯杯盖（印有可回收标志）",
     "category": 1
@@ -10473,7 +10473,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "旅行箱",
-    "category": 1
+    "category": 16
 }, {
     "name": "饼干盒",
     "category": 1
@@ -10752,7 +10752,7 @@ var garbage = [{
     "category": 1
 }, {
     "name": "黑板",
-    "category": 1
+    "category": 16
 }, {
     "name": "豆浆机",
     "category": 1
@@ -10833,7 +10833,7 @@ var garbage = [{
     "category": 2
 }, {
     "name": "医用棉签",
-    "category": 2
+    "category": 8
 }, {
     "name": "医用手套",
     "category": 2
@@ -10920,7 +10920,7 @@ var garbage = [{
     "category": 2
 }, {
     "name": "膏药",
-    "category": 2
+    "category": 8
 }, {
     "name": "药瓶",
     "category": 2
@@ -11134,17 +11134,840 @@ var garbage = [{
 }, {
     "name": "泡腾片",
     "category": 2
+}, {
+    "name": "阿胶糕",
+    "category": 4
+}, {
+    "name": "塑料档案袋",
+    "category": 1
+}, {
+    "name": "纸质档案袋",
+    "category": 1
+}, {
+    "name": "河蚌",
+    "category": 8
+}, {
+    "name": "背心",
+    "category": 1
+}, {
+    "name": "贝壳肉",
+    "category": 4
+}, {
+    "name": "方便面袋",
+    "category": 8
+}, {
+    "name": "茶饼",
+    "category": 4
+}, {
+    "name": "玻璃罐",
+    "category": 1
+}, {
+    "name": "铝箔包",
+    "category": 8
+}, {
+    "name": "锡箔纸",
+    "category": 8
+}, {
+    "name": "不锈钢杯",
+    "category": 1
+}, {
+    "name": "餐巾纸",
+    "category": 8
+}, {
+    "name": "党参",
+    "category": 4
+}, {
+    "name": "残渣剩饭",
+    "category": 4
+}, {
+    "name": "草帽",
+    "category": 8
+}, {
+    "name": "电池",
+    "category": 2
+}, {
+    "name": "干电池",
+    "category": 2
+}, {
+    "name": "塑料尺",
+    "category": 1
+}, {
+    "name": "不锈钢尺",
+    "category": 1
+}, {
+    "name": "毛毛虫",
+    "category": 4
+}, {
+    "name": "宠物毛发",
+    "category": 8
+}, {
+    "name": "金属厨具",
+    "category": 1
+}, {
+    "name": "厨房垃圾袋",
+    "category": 8
+}, {
+    "name": "纯棉靠垫",
+    "category": 1
+}, {
+    "name": "纯棉靠枕",
+    "category": 1
+}, {
+    "name": "磁盘盒",
+    "category": 1
+}, {
+    "name": "磁片盒",
+    "category": 1
+}, {
+    "name": "暖瓶玻璃内胆",
+    "category": 1
+}, {
+    "name": "打碎的碗",
+    "category": 8
+}, {
+    "name": "鱼的内脏",
+    "category": 4
+}, {
+    "name": "塑料凳",
+    "category": 1
+}, {
+    "name": "地瓜皮",
+    "category": 4
+}, {
+    "name": "快递冰袋",
+    "category": 8
+}, {
+    "name": "过期糕点",
+    "category": 4
+}, {
+    "name": "冬笋",
+    "category": 4
+}, {
+    "name": "水银温度计",
+    "category": 2
+}, {
+    "name": "防晒霜空瓶",
+    "category": 1
+}, {
+    "name": "废花盆",
+    "category": 8
+}, {
+    "name": "废胶片",
+    "category": 2
+}, {
+    "name": "凤梨",
+    "category": 4
+}, {
+    "name": "中药敷贴",
+    "category": 8
+}, {
+    "name": "护肤品玻璃空瓶",
+    "category": 1
+}, {
+    "name": "护肤品塑料空瓶",
+    "category": 1
+}, {
+    "name": "护肤霜玻璃空瓶",
+    "category": 1
+}, {
+    "name": "猪肉脯",
+    "category": 4
+}, {
+    "name": "可擦复写笔",
+    "category": 8
+}, {
+    "name": "塑料盖",
+    "category": 1
+}, {
+    "name": "青菜杆",
+    "category": 4
+}, {
+    "name": "玻璃烟缸",
+    "category": 1
+}, {
+    "name": "隔离霜空瓶",
+    "category": 1
+}, {
+    "name": "各类过期药品",
+    "category": 2
+}, {
+    "name": "金属工具",
+    "category": 1
+}, {
+    "name": "含汞电池",
+    "category": 2
+}, {
+    "name": "狗尿布",
+    "category": 8
+}, {
+    "name": "鸡骨",
+    "category": 4
+}, {
+    "name": "挂耳咖啡包",
+    "category": 8
+}, {
+    "name": "铝锅",
+    "category": 1
+}, {
+    "name": "过滤芯",
+    "category": 8
+}, {
+    "name": "电焊丝",
+    "category": 1
+}, {
+    "name": "木盒",
+    "category": 1
+}, {
+    "name": "黑木耳",
+    "category": 4
+}, {
+    "name": "护发素塑料空瓶",
+    "category": 1
+}, {
+    "name": "精华液玻璃空瓶",
+    "category": 1
+}, {
+    "name": "精华液塑料空瓶",
+    "category": 1
+}, {
+    "name": "油画",
+    "category": 8
+}, {
+    "name": "油画棒",
+    "category": 8
+}, {
+    "name": "家养花卉",
+    "category": 4
+}, {
+    "name": "木质积木",
+    "category": 1
+}, {
+    "name": "鸡骨架",
+    "category": 4
+}, {
+    "name": "金属衣架",
+    "category": 1
+}, {
+    "name": "无汞碱性电池",
+    "category": 8
+}, {
+    "name": "豆角壳",
+    "category": 4
+}, {
+    "name": "节能灯泡",
+    "category": 2
+}, {
+    "name": "桔子",
+    "category": 4
+}, {
+    "name": "洗洁精空瓶",
+    "category": 1
+}, {
+    "name": "酒精棉",
+    "category": 8
+}, {
+    "name": "干净的纸杯",
+    "category": 8
+}, {
+    "name": "净水器滤芯",
+    "category": 8
+}, {
+    "name": "旧草帽",
+    "category": 8
+}, {
+    "name": "玻璃餐具",
+    "category": 1
+}, {
+    "name": "塑料卡片",
+    "category": 1
+}, {
+    "name": "烤肉",
+    "category": 4
+}, {
+    "name": "乐扣乐扣塑料盒",
+    "category": 1
+}, {
+    "name": "木筷子",
+    "category": 1
+}, {
+    "name": "塑料筷子",
+    "category": 1
+}, {
+    "name": "宽粉",
+    "category": 4
+}, {
+    "name": "金属制菜篮子",
+    "category": 1
+}, {
+    "name": "烂黄瓜",
+    "category": 4
+}, {
+    "name": "利乐枕",
+    "category": 1
+}, {
+    "name": "利乐砖",
+    "category": 1
+}, {
+    "name": "可乐空罐",
+    "category": 1
+}, {
+    "name": "鱼类",
+    "category": 4
+}, {
+    "name": "荔枝",
+    "category": 4
+}, {
+    "name": "长筒连裤袜",
+    "category": 8
+}, {
+    "name": "护脸霜玻璃空瓶",
+    "category": 1
+}, {
+    "name": "护脸霜塑料空瓶",
+    "category": 1
+}, {
+    "name": "鸟粮",
+    "category": 4
+}, {
+    "name": "木质晾衣架",
+    "category": 1
+}, {
+    "name": "不锈钢晾衣杆",
+    "category": 1
+}, {
+    "name": "过期零食",
+    "category": 4
+}, {
+    "name": "金属哑铃",
+    "category": 1
+}, {
+    "name": "榴莲",
+    "category": 8
+}, {
+    "name": "花露水玻璃空瓶",
+    "category": 1
+}, {
+    "name": "沐浴露玻璃空瓶",
+    "category": 1
+}, {
+    "name": "沐浴露塑料空瓶",
+    "category": 1
+}, {
+    "name": "马甲袋",
+    "category": 8
+}, {
+    "name": "满天星",
+    "category": 4
+}, {
+    "name": "话梅核",
+    "category": 4
+}, {
+    "name": "空灭火器",
+    "category": 1
+}, {
+    "name": "灭蚊剂瓶",
+    "category": 2
+}, {
+    "name": "包书膜",
+    "category": 8
+}, {
+    "name": "磨砂膏塑料空瓶",
+    "category": 1
+}, {
+    "name": "废旧抹布",
+    "category": 8
+}, {
+    "name": "墨鱼",
+    "category": 4
+}, {
+    "name": "泡沫餐盒",
+    "category": 8
+}, {
+    "name": "塑料收纳箱",
+    "category": 1
+}, {
+    "name": "无纺布收纳箱",
+    "category": 1
+}, {
+    "name": "奶片",
+    "category": 4
+}, {
+    "name": "胶囊药片",
+    "category": 2
+}, {
+    "name": "镉镍电池",
+    "category": 2
+}, {
+    "name": "镍铝电池",
+    "category": 2
+}, {
+    "name": "泡菜",
+    "category": 4
+}, {
+    "name": "杀虫喷雾罐",
+    "category": 2
+}, {
+    "name": "杀虫喷雾瓶",
+    "category": 2
+}, {
+    "name": "玻璃盆",
+    "category": 1
+}, {
+    "name": "瓜皮",
+    "category": 4
+}, {
+    "name": "收银小票",
+    "category": 1
+}, {
+    "name": "废药品",
+    "category": 2
+}, {
+    "name": "铝瓶",
+    "category": 1
+}, {
+    "name": "破瓷瓶",
+    "category": 8
+}, {
+    "name": "过期茶叶",
+    "category": 4
+}, {
+    "name": "乳胶漆",
+    "category": 2
+}, {
+    "name": "空煤气罐",
+    "category": 1
+}, {
+    "name": "彩色铅笔",
+    "category": 8
+}, {
+    "name": "木头铅笔",
+    "category": 8
+}, {
+    "name": "青草",
+    "category": 4
+}, {
+    "name": "镍氢电池",
+    "category": 2
+}, {
+    "name": "装订铁圈",
+    "category": 1
+}, {
+    "name": "燃气罐空瓶",
+    "category": 1
+}, {
+    "name": "燃油罐空瓶",
+    "category": 1
+}, {
+    "name": "染发料瓶",
+    "category": 2
+}, {
+    "name": "日光灯管",
+    "category": 2
+}, {
+    "name": "金属制容器",
+    "category": 1
+}, {
+    "name": "毛绒垫",
+    "category": 1
+}, {
+    "name": "果肉",
+    "category": 4
+}, {
+    "name": "润发乳空瓶",
+    "category": 1
+}, {
+    "name": "润肤霜玻璃空瓶",
+    "category": 1
+}, {
+    "name": "砂纸",
+    "category": 8
+}, {
+    "name": "杀虫剂罐",
+    "category": 2
+}, {
+    "name": "杀虫剂瓶",
+    "category": 2
+}, {
+    "name": "沙包",
+    "category": 8
+}, {
+    "name": "防晒霜玻璃空瓶",
+    "category": 1
+}, {
+    "name": "防晒霜塑料空瓶",
+    "category": 1
+}, {
+    "name": "山芋皮",
+    "category": 4
+}, {
+    "name": "剩饭剩菜",
+    "category": 4
+}, {
+    "name": "风干食品",
+    "category": 4
+}, {
+    "name": "过期粮食",
+    "category": 4
+}, {
+    "name": "狗屎纸",
+    "category": 8
+}, {
+    "name": "过期芝士",
+    "category": 4
+}, {
+    "name": "手纸",
+    "category": 8
+}, {
+    "name": "受污染纸张",
+    "category": 8
+}, {
+    "name": "腐烂蔬菜",
+    "category": 4
+}, {
+    "name": "金属锅",
+    "category": 1
+}, {
+    "name": "漱口水塑料空瓶",
+    "category": 1
+}, {
+    "name": "面霜塑料空瓶",
+    "category": 1
+}, {
+    "name": "爽肤水玻璃空瓶",
+    "category": 1
+}, {
+    "name": "爽肤水塑料空瓶",
+    "category": 1
+}, {
+    "name": "死鱼",
+    "category": 4
+}, {
+    "name": "速冻饺子包装",
+    "category": 8
+}, {
+    "name": "酸奶利乐包装盒",
+    "category": 1
+}, {
+    "name": "碎玻璃",
+    "category": 1
+}, {
+    "name": "碎瓷片",
+    "category": 8
+}, {
+    "name": "污损报纸",
+    "category": 8
+}, {
+    "name": "污损纸盒",
+    "category": 8
+}, {
+    "name": "太阳能电池",
+    "category": 2
+}, {
+    "name": "羊毛毯",
+    "category": 1
+}, {
+    "name": "碎陶瓷",
+    "category": 8
+}, {
+    "name": "陶瓷刀",
+    "category": 8
+}, {
+    "name": "田螺肉",
+    "category": 4
+}, {
+    "name": "铁桶",
+    "category": 1
+}, {
+    "name": "纸筒",
+    "category": 1
+}, {
+    "name": "竹筒",
+    "category": 8
+}, {
+    "name": "薯片外包装",
+    "category": 8
+}, {
+    "name": "陶瓷碗",
+    "category": 8
+}, {
+    "name": "调味品",
+    "category": 4
+}, {
+    "name": "保温材料",
+    "category": 8
+}, {
+    "name": "无花果壳",
+    "category": 4
+}, {
+    "name": "衣物",
+    "category": 1
+}, {
+    "name": "锡纸盒",
+    "category": 8
+}, {
+    "name": "竹席",
+    "category": 8
+}, {
+    "name": "相片",
+    "category": 2
+}, {
+    "name": "相纸",
+    "category": 2
+}, {
+    "name": "相片纸",
+    "category": 2
+}, {
+    "name": "橡胶垫",
+    "category": 8
+}, {
+    "name": "84消毒液空瓶",
+    "category": 2
+}, {
+    "name": "小排",
+    "category": 4
+}, {
+    "name": "卸妆油空瓶",
+    "category": 1
+}, {
+    "name": "杏",
+    "category": 4
+}, {
+    "name": "铅蓄电池",
+    "category": 2
+}, {
+    "name": "雪蟹蟹壳",
+    "category": 4
+}, {
+    "name": "龙眼壳",
+    "category": 4
+}, {
+    "name": "过期燕麦片",
+    "category": 4
+}, {
+    "name": "羊肉",
+    "category": 4
+}, {
+    "name": "花椰菜",
+    "category": 4
+}, {
+    "name": "口服液药瓶",
+    "category": 2
+}, {
+    "name": "洗手液空瓶",
+    "category": 1
+}, {
+    "name": "皮衣",
+    "category": 1
+}, {
+    "name": "电影胶片",
+    "category": 2
+}, {
+    "name": "有机溶剂包装",
+    "category": 2
+}, {
+    "name": "玉米杆",
+    "category": 4
+}, {
+    "name": "鲜肉月饼",
+    "category": 4
+}, {
+    "name": "家养盆栽",
+    "category": 4
+}, {
+    "name": "药渣",
+    "category": 4
+}, {
+    "name": "炸鸡腿",
+    "category": 4
+}, {
+    "name": "粘鼠胶",
+    "category": 2
+}, {
+    "name": "木质擀面杖",
+    "category": 1
+}, {
+    "name": "塑料擀面杖",
+    "category": 1
+}, {
+    "name": "纸质账单",
+    "category": 1
+}, {
+    "name": "照相机电池",
+    "category": 2
+}, {
+    "name": "塑料砧板",
+    "category": 1
+}, {
+    "name": "乳制品",
+    "category": 4
+}, {
+    "name": "玻璃制品",
+    "category": 1
+}, {
+    "name": "圆珠笔笔套",
+    "category": 1
+}, {
+    "name": "水煮花生壳",
+    "category": 4
+}, {
+    "name": "包装袋",
+    "category": 8
+}, {
+    "name": "自动铅笔",
+    "category": 8
+}, {
+    "name": "钻头",
+    "category": 1
+}, {
+    "name": "安全座椅",
+    "category": 16
+}, {
+    "name": "白板",
+    "category": 16
+}, {
+    "name": "板凳",
+    "category": 16
+}, {
+    "name": "脚踏车",
+    "category": 16
+}, {
+    "name": "抽屉",
+    "category": 16
+}, {
+    "name": "储物柜",
+    "category": 16
+}, {
+    "name": "床",
+    "category": 16
+}, {
+    "name": "凳子",
+    "category": 16
+}, {
+    "name": "手风琴",
+    "category": 16
+}, {
+    "name": "柜子",
+    "category": 16
+}, {
+    "name": "大件垃圾",
+    "category": 16
+}, {
+    "name": "家具",
+    "category": 16
+}, {
+    "name": "红木家具",
+    "category": 16
+}, {
+    "name": "书架",
+    "category": 16
+}, {
+    "name": "课桌",
+    "category": 16
+}, {
+    "name": "席梦思",
+    "category": 16
+}, {
+    "name": "电脑桌",
+    "category": 16
+}, {
+    "name": "书柜",
+    "category": 16
+}, {
+    "name": "木箱",
+    "category": 16
+}, {
+    "name": "收录音机",
+    "category": 1
+}, {
+    "name": "小型音响",
+    "category": 1
+}, {
+    "name": "饮水机",
+    "category": 1
+}, {
+    "name": "电子游戏机",
+    "category": 1
+}, {
+    "name": "电子手表",
+    "category": 1
+}, {
+    "name": "尿袋（家庭产生）",
+    "category": 8
+}, {
+    "name": "手持电风扇",
+    "category": 1
+}, {
+    "name": "空调器",
+    "category": 1
+}, {
+    "name": "大型多功能打印机",
+    "category": 1
+}, {
+    "name": "大型复印机",
+    "category": 1
+}, {
+    "name": "大型烘干机",
+    "category": 1
+}, {
+    "name": "小型烘干机",
+    "category": 1
+}, {
+    "name": "电子体温计",
+    "category": 1
+}, {
+    "name": "冷暖气机",
+    "category": 1
+}, {
+    "name": "落地电风扇",
+    "category": 1
+}, {
+    "name": "落地式台灯",
+    "category": 1
+}, {
+    "name": "迷你电视机",
+    "category": 1
+}, {
+    "name": "电子闹钟",
+    "category": 1
+}, {
+    "name": "大屏电视机",
+    "category": 1
+}, {
+    "name": "台式电脑",
+    "category": 1
+}, {
+    "name": "大型显示器",
+    "category": 1
+}, {
+    "name": "小型显示器",
+    "category": 1
+}, {
+    "name": "小型保险箱",
+    "category": 1
+}, {
+    "name": "果汁机",
+    "category": 1
+}, {
+    "name": "书桌",
+    "category": 16
+}, {
+    "name": "桌子",
+    "category": 16
+}, {
+    "name": "家用吸尘器",
+    "category": 1
 }];
 
-// var garbage = [
-//     {
+// var garbage = [{
+//     "name": "家用吸尘器",
+//     "category": 1
+// }, {
 //     "name": "阿司匹林",
 //     "category": 2
-//     }, {
-//         "name": "阿尔卑斯糖",
-//         "category": 4
-//     },
-// ];
+// }, {
+//     "name": "阿尔卑斯糖",
+//     "category": 4
+// }, ];
 
 module.exports = {
     garbageList: garbage,

@@ -2,8 +2,12 @@
     color: #ff0000;
 }
 
-.page__bd {
-    margin-top: 3em;
+.page__bd_spacing {
+    margin-top: 2em;
+}
+
+.weui-btn {
+    margin: 1em 3em;
 }
 
 /* weui */

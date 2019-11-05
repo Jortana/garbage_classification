@@ -27,6 +27,7 @@
 		<view wx:elif="{{item.category == 2}}" class="weui-cell__ft">有害垃圾</view>
 		<view wx:elif="{{item.category == 4}}" class="weui-cell__ft">湿垃圾</view>
 		<view wx:elif="{{item.category == 8}}" class="weui-cell__ft">干垃圾</view>
+		<view wx:elif="{{item.category == 16}}" class="weui-cell__ft">大件垃圾</view>
 	</view>
 </view>
 <view class="weui-cells weui-cells_after-title">
